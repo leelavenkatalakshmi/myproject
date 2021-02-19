@@ -1,0 +1,31 @@
+{
+	"products":[
+	 	{
+	 	"name":"redmi k20",
+	 	"image":"img/redmi k20.jpg",
+	 	"price":"27000",
+	 	"dprice":"24000"
+	 	},
+	 	{
+	 	"name":"22.jpg",
+	 	"image":"img/22.jpg",
+	 	"price":"17599",
+	 	"dprice":"14599"
+	 	},
+	 	{"name":"onplus nord",
+	 	"image":"img/oneplus nord.jpg",
+	 	"price":"30000",
+	 	"dprice":"27000"
+	 	},
+	 	{"name":"apple se",
+	 	"image":"img/apple se.jpg",
+	 	"price":"35000",
+	 	"dprice":"30000"
+	 	},{
+	 	"name":"REALME NARZO",
+	 	"image":"img/22.jpg",
+	 	"price":"45000",
+	 	"dprice":"23000"
+	 	}
+	 	]
+}
